@@ -14,5 +14,5 @@ jobs:
     - name: Dire bonjour
       uses: ./actions/salutation
       with:
-        username: "Jean"
+        username: "Jean-pierre"
         greeting: "Salut"
